@@ -1,0 +1,27 @@
+{
+	"elements":
+	[
+		{ "name": "Interval", "type": "IntervalBox", "caption": "milliseconds" },
+		
+		{ "type": "Label", "label": "Other parameters" },
+	
+		{ "type": "CheckBox", "name": "Digital_Input_1",		"caption": "Digitaler Eingang 1" },
+		{ "type": "CheckBox", "name": "Digital_Input_2",		"caption": "Digitaler Eingang 2" },
+		{ "type": "CheckBox", "name": "Digital_Input_3",		"caption": "Digitaler Eingang 3" },
+		{ "type": "CheckBox", "name": "Digital_Input_4",		"caption": "Digitaler Eingang 4" },
+		{ "type": "CheckBox", "name": "Digital_Input_5",		"caption": "Digitaler Eingang 5" },
+		{ "type": "CheckBox", "name": "Digital_Input_6",		"caption": "Digitaler Eingang 6" },
+		{ "type": "CheckBox", "name": "Digital_Input_7",		"caption": "Digitaler Eingang 7" },
+		{ "type": "CheckBox", "name": "Digital_Input_8",		"caption": "Digitaler Eingang 8" },
+		{ "type": "CheckBox", "name": "Digital_Input_9",		"caption": "Digitaler Eingang 9" },
+		{ "type": "CheckBox", "name": "Digital_Input_10",		"caption": "Digitaler Eingang 10" },
+		{ "type": "CheckBox", "name": "Digital_Input_11",		"caption": "Digitaler Eingang 11" },
+		{ "type": "CheckBox", "name": "Digital_Input_12",		"caption": "Digitaler Eingang 12" },
+		{ "type": "CheckBox", "name": "Digital_Input_13",		"caption": "Digitaler Eingang 13" },
+		{ "type": "CheckBox", "name": "Digital_Input_14",		"caption": "Digitaler Eingang 14" },
+		{ "type": "CheckBox", "name": "Digital_Input_15",		"caption": "Digitaler Eingang 15" },
+
+		{ "type": "CheckBox", "name": "TemperatureInput",	"caption": "Temperature input" }
+
+	]
+}
