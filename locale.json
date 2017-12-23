@@ -1,0 +1,9 @@
+{
+	"translations": {
+		"de": { 
+			"Location": "Standort",
+			"Country": "Land",
+			"Other parameters": "Weitere Parameter"
+		}
+	}
+}

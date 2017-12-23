@@ -20,8 +20,7 @@
 		{ "type": "CheckBox", "name": "Digital_Input_13",		"caption": "Digitaler Eingang 13" },
 		{ "type": "CheckBox", "name": "Digital_Input_14",		"caption": "Digitaler Eingang 14" },
 		{ "type": "CheckBox", "name": "Digital_Input_15",		"caption": "Digitaler Eingang 15" },
-
-		{ "type": "CheckBox", "name": "TemperatureInput",	"caption": "Temperature input" }
+		{ "type": "CheckBox", "name": "TemperatureInput",		"caption": "Temperature input" }
 
 	]
 }

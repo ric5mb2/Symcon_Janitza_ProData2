@@ -1,4 +1,4 @@
-Digital Eingänge Status on/off
+﻿Digital Eingänge Status on/off
 
 Adresse Format 	RD/WR 			Einheit 			Bemerkung
 3740 	SHORT 	RD status, 		event 1 input 1 	(0=off, 1=on)
@@ -16,3 +16,7 @@ Adresse Format 	RD/WR 			Einheit 			Bemerkung
 3752 	SHORT 	RD status, 		event 1 input 13 	(0=off, 1=on)
 3753 	SHORT 	RD status, 		event 1 input 14 	(0=off, 1=on)
 3754 	SHORT 	RD status, 		event 1 input 15 	(0=off, 1=on)
+
+ID: 7f6181fb-a4ea-49dc-9739-284859271465
+
+git://github.com/ric5mb2/Symcon_Janitza_ProData2.git
